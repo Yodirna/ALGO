@@ -1,6 +1,6 @@
 a = "hi"
 
 print(a)
-// DU HURENSOHN
+# DU HURENSOHN
 
-//danke
+# danke
