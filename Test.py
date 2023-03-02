@@ -1,6 +1,7 @@
-a = "hi"
+import pandas as pd
+import time
 
-print(a)
-# DU HURENSOHN
-
-# danke
+# load data from a csv file using pandas (pd)
+start_time = time.time()
+df = pd.read_csv('MSFT.csv', encoding='utf8')
+print(df)
