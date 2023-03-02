@@ -31,6 +31,10 @@ Add additional notes about how to deploy this on a production system.
 Add links to external resources for this project, such as CI server, bug tracker, etc.
 
 
+
+WHAT IS A HASH TABLE?
+
+
 A hash table is a data structure that allows you to store and retrieve data quickly based on a unique key or identifier.
 
 In the case of storing the data of a stock and its values, you could use the stock symbol as the key and the values could be things like the current price, the high and low prices for the day, the trading volume, and other relevant data.
